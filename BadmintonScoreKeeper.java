@@ -56,7 +56,7 @@ public class BadmintonScoreKeeper {
             JOptionPane.showMessageDialog(null, player2Name + " wins the set!");
             recordSetScore();
         } else if (player1Score == 20 && player2Score == 20) {
-            JOptionPane.showMessageDialog(null, "It's a tie at 20-20!");
+            JOptionPane.showMessageDialog(null, "Deuce! It's a tie at 20-20! First to 2 points advantage wins!");
         }
     }
 

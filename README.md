@@ -19,4 +19,8 @@ This will be the GUI that pops up. You can insert the player names and click Set
 
 After each set, the scores will be stored in the table automatically.
 
+For example:
+
+![alt text](image-1.png)
+
 Enjoy!
